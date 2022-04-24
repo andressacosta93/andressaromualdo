@@ -11,6 +11,8 @@
   <img align="center" alt="Andressa-Java" height="30" width="40" src="https://raw.https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg">
   </div>
   
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
   ##
  
 <div> 
